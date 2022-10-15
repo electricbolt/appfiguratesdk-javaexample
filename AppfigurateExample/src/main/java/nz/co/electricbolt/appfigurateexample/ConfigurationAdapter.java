@@ -1,4 +1,4 @@
-// ConfigurationAdapter.dart
+// ConfigurationAdapter.java
 // AppfigurateExample Copyright © 2018; Electric Bolt Limited.
 
 package nz.co.electricbolt.appfigurateexample;
