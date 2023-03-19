@@ -1,6 +1,8 @@
 # Appfigurate™ Java Example
 
-Demonstrates how to integrate Appfigurate SDK into a Java, Android app.
+Demonstrates how to integrate Appfigurate SDK into a Java, Android app. UI automation testing using Espresso.
+
+Developed with Android Studio Electric Eel 2022.1.1
 
 Documentation for Appfigurate is available at [docs.electricbolt.co.nz](https://docs.electricbolt.co.nz).
 
